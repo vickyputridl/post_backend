@@ -1,0 +1,3 @@
+GITHUB adalah flat form untuk version control
+Repositori adalah untuk memanajemen koding
+keuntungannya untuk bisa membuka koding yang sebelum-sebelumnya
